@@ -1,0 +1,34 @@
+[theme]
+base = "light"
+primaryColor = "#2563eb"
+backgroundColor = "#f8faff"
+secondaryBackgroundColor = "#eef2ff"
+codeBackgroundColor = "#f1f5f9"
+textColor = "#0f172a"
+linkColor = "#2563eb"
+borderColor = "#e2e8f0"
+showWidgetBorder = true
+showSidebarBorder = false
+baseRadius = "16px"
+buttonRadius = "14px"
+font = "'Plus Jakarta Sans':https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap"
+codeFont = "'JetBrains Mono':https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap"
+codeFontSize = "0.875rem"
+codeTextColor = "#0f172a"
+baseFontSize = 14
+baseFontWeight = 400
+headingFontSizes = ["32px", "24px", "20px", "16px", "14px", "12px"]
+headingFontWeights = [800, 700, 600, 600, 500, 500]
+linkUnderline = false
+
+# Palette
+grayColor = "#64748b"
+blueColor = "#2563eb"
+greenColor = "#10b981"
+redColor = "#ef4444"
+yellowColor = "#f59e0b"
+orangeColor = "#f97316"
+violetColor = "#8b5cf6"
+
+
+
